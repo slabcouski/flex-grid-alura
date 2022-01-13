@@ -352,7 +352,7 @@ body {
 }
 
 .destaque-produtos {
-    grid-area: destaque-produto;
+    grid-area: destaque-produtos;
 }
 
 .produtos-recentes {
